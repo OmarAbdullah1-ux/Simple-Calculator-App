@@ -13,7 +13,7 @@ A simple command-line calculator application written in Python.
 - Unit tests for all calculator functions  
 
 ---
-
+ 
 ## Installation
 
 1. Ensure you have Python 3.6 or higher installed on your system.  
